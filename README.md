@@ -44,6 +44,11 @@ The dataset contains **30,000 patient records** spanning from **Jan 2022 to Nov 
 * **Admission Patterns:** About **50%** of high-volume cases are treated via **Emergency** admissions, suggesting gaps in primary care management.
 * **Insurance Impact:** Patients without insurance coverage are paying the full cost of these  treatments out-of-pocket.
 
+## Report
+* **PowerPoint summary**: `report/health_cost_driver_analysis.pptx`
+* **Jupyter notebook**: `notebook/Health_cost_drivers.ipynb`
+
+
 ##  Recommendations
 * **Preventive Care Focus:** Targeted public health campaigns for middle-aged and elderly demographics to prevent high-cost chronic conditions.
 * **Primary Care Management:** Improving access to primary care could reduce the high volume of preventable emergency admissions.
